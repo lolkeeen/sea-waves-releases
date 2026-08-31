@@ -1,4 +1,4 @@
-﻿# Sea Waves Releases
+﻿#  Releases
 
-Public installers and update manifest for [Sea Waves](https://github.com/lolkeeen/wave-analyzer). Source code stays in the private repo.
+Public installers and update manifest for the app. Source code stays in the private repo.
 
